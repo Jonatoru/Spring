@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f33328c1-d623-4643-829d-cf1230ed5acd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="f33328c1-d623-4643-829d-cf1230ed5acd" name="Changes" comment="Первый коммит">
       <change afterPath="$PROJECT_DIR$/src/main/java/Checks/ValidationUtilities.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Config/AppConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/drivers/Driver.java" afterDir="false" />
@@ -20,8 +13,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/transport/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/transport/Pickup.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/transport/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +33,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -92,8 +89,16 @@
       <option name="presentableId" value="Default" />
       <updated>1687460339800</updated>
       <workItem from="1687460342796" duration="2677000" />
-      <workItem from="1687972407588" duration="8649000" />
+      <workItem from="1687972407588" duration="9276000" />
     </task>
+    <task id="LOCAL-00001" summary="Первый коммит">
+      <created>1687983751288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687983751288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первый коммит" />
   </component>
 </project>
